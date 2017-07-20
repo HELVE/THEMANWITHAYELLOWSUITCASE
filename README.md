@@ -13,7 +13,7 @@ Endless Sabotager Game
 
 
 # Action items
-[ ] @someone let’s get this done
+- [ ] someone let’s get this done
 
 
 # Background
