@@ -1,33 +1,79 @@
-# themanwithyellowsuitcase
-Endless Sabotager Game
+![Project Banner](/assets/template_visuals/temp-banner.png)
 
-| Status              |  🌱 / In Progress 🔨 / Ready to launch  🚀 |
-| ------------------- | -------------------------------------------------- |
-| Team                | Start with you and add others with @mentions       |
-| Product Description | Game.                                              |
-| Deadline            | When do you want to finish?                        |
+<a name="intro"></a>
+# THE MAN WITH A YELLOW SUITCASE - ENDLESS SABOTAGER GAME
+Description.
 
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
-# Timeline
-- What are the key dates?
+Description.
 
+![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
 
-# Action items
-- [ ] someone let’s get this done
+Description.
 
+![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
 
-# Background
-Goal
+### Table of Contents
+1. [Introduction.](#intro)
+2. [Features.](#features)
+3. [Issues.](#issues)
+4. [Icebox.](#icebox)
+5. [Installation and usage guide.](#install)
+6. [Contributing.](#contribute)
+7. [License.](#license)
+8. [Credits.](#credits)
+9. [Commit Glyphs.](#glyphs)
 
-# Where’s this project headed?
+<a name="features"></a>
+### Features
++ Feature_01
++ Feature_02
++ Feature_03
 
+<a name="issues"></a>
+### Issues
++ Issue_01
++ Issue_02
++ Issue_03
 
-# Research
-- Add related docs by typing a plus sign (+)
+<a name="icebox"></a>
+### Icebox
++ Idea_01
++ Idea_02
++ Idea_03
 
+<a name="install"></a>
+### Installation and Usage Guide
+Include basic necessary components. Gifs if required.
+```
+1. 
+2. 
+3. 
+```
 
-# Project
+<a name="contribute"></a>
+### Contributing
+Insert project contribution rules if allowed.
 
-Add images like pngs and gifs, or rich media like video and audio. Move your mouse to the left margin to see the + icon, or just drag in the file or paste in a link.
+<a name="license"></a>
+### License
+Insert project licensing options if there are any.
+
+<a name="credits"></a>
+### Credits
+Insert project creator entities, contributors and their respective presence links.
+
+<a name="glyphs"></a>
+### Commit Glyphs
+
++ ☰ Code structure and formatting
++ ▲ Performance improvements
++ ⨯ File deletion
++ ∗ Bugfix
++ ⬡ New Feature
++ ⎔ Documentation
++ ❑ UI design
++ ⚑ Release
 
 
